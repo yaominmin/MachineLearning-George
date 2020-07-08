@@ -1,0 +1,97 @@
+
+epochs=2,batch_size=1
+2g_ap
+离散系数: 0.4161503783606161
+2g_cala
+离散系数: 0.5464274371286876
+2g_emea
+离散系数: 0.28388051456795377
+2g_na
+离散系数: 0.4526674040794166
+
+3g prediction:
+
+3g_ap
+离散系数: 0.39021942649774627
+3g_cala
+离散系数: 0.5475432535455391
+3g_emea
+离散系数: 0.32465401502566527
+3g_na
+离散系数: 0.6594850941319826
+
+4g prediction:
+
+4g_ap
+离散系数: 0.48547056312550313
+4g_cala
+离散系数: 0.6532859813595068
+4g_emea
+离散系数: 0.48601176398349977
+4g_na
+离散系数: 0.4004630934281262
+
+epochs=2, batch_size=3
+2g_ap
+Coefficient of Variation: 0.4062803326051529
+2g_cala
+Coefficient of Variation: 0.43994804646437813
+2g_emea
+Coefficient of Variation: 0.26915228435619737
+2g_na
+Coefficient of Variation: 0.3784061957928055
+
+3g prediction:
+
+3g_ap
+Coefficient of Variation: 0.3485202130420243
+3g_cala
+Coefficient of Variation: 0.463121720191794
+3g_emea
+Coefficient of Variation: 0.32123299685380113
+3g_na
+Coefficient of Variation: 0.6408812477224322
+
+4g prediction:
+
+4g_ap
+Coefficient of Variation: 0.4894383330122955
+4g_cala
+Coefficient of Variation: 0.5399335902222583
+4g_emea
+Coefficient of Variation: 0.42993442135854587
+4g_na
+Coefficient of Variation: 0.36641156824983634
+
+
+epochs=3, batch_size=3
+2g_ap
+Coefficient of Variation: 0.3889241340561219
+2g_cala
+Coefficient of Variation: 0.46696152241692523
+2g_emea
+Coefficient of Variation: 0.23150575879913518
+2g_na
+Coefficient of Variation: 0.36580806696823065
+
+3g prediction:
+
+3g_ap
+Coefficient of Variation: 0.33528899257166456
+3g_cala
+Coefficient of Variation: 0.4991403839480318
+3g_emea
+Coefficient of Variation: 0.32898293642102494
+3g_na
+Coefficient of Variation: 0.6320836821937367
+
+4g prediction:
+
+4g_ap
+Coefficient of Variation: 0.43070728086526777
+4g_cala
+Coefficient of Variation: 0.5979802328203712
+4g_emea
+Coefficient of Variation: 0.4210543255922236
+4g_na
+Coefficient of Variation: 0.38735334176993635
